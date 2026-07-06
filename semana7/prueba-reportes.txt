@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 120
+ETag: W/"78-sgzkHPLPWJLXHZKpuFVictSZ1uE"
+Date: Mon, 06 Jul 2026 02:19:55 GMT
+Connection: close
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
